@@ -1,0 +1,44 @@
+2025-12-12 10:45:57 - CompleteApp - INFO - CompleteApp initialized successfully
+2025-12-12 10:46:23 - CompleteApp - INFO - Calculated rectangle area 10.0x2.0
+2025-12-12 10:46:48 - CompleteApp - INFO - Calculated rectangle area 10.0x1.0
+2025-12-12 10:47:09 - CompleteApp - INFO - Forecast fetched for pune
+2025-12-12 10:47:19 - CompleteApp - INFO - Forecast fetched for pune
+2025-12-12 11:33:07 - CompleteApp - INFO - Weather fetched for pune
+2025-12-12 11:33:23 - CompleteApp - INFO - Forecast fetched for pune
+2025-12-12 11:37:50 - CompleteApp - INFO - Weather fetched for pune
+2025-12-12 11:38:10 - CompleteApp - INFO - Forecast fetched for pune
+2025-12-12 11:38:26 - CompleteApp - WARNING - Application interrupted by user
+2025-12-12 11:38:26 - CompleteApp - INFO - Resources cleaned up
+2025-12-12 11:56:35 - CompleteApp - INFO - CompleteApp initialized successfully
+2025-12-12 11:56:49 - CompleteApp - INFO - Calculated circle area with radius 20.0
+2025-12-12 11:56:54 - CompleteApp - INFO - Calculated rectangle area 10.0x22.0
+2025-12-12 11:57:03 - CompleteApp - INFO - Calculated triangle area base=1.0, height=2.0
+2025-12-12 11:57:17 - CompleteApp - INFO - Calculated square area with side 2.0
+2025-12-12 11:57:25 - CompleteApp - INFO - Calculated ellipse area major=2.0, minor=2.0
+2025-12-12 11:57:38 - CompleteApp - ERROR - Unexpected error: 'NoneType' object has no attribute 'capitalize'
+Traceback (most recent call last):
+  File "d:\GenAi Internship CDAC\Assignments\Assignment02\Complete_App\app.py", line 428, in run
+    self.weather_section()
+  File "d:\GenAi Internship CDAC\Assignments\Assignment02\Complete_App\app.py", line 163, in weather_section
+    self._display_weather({
+  File "d:\GenAi Internship CDAC\Assignments\Assignment02\Complete_App\app.py", line 194, in _display_weather
+    print(f"📝 Description: {weather.get('description', 'N/A').capitalize()}")
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'capitalize'
+2025-12-12 12:00:31 - CompleteApp - INFO - CompleteApp initialized successfully
+2025-12-12 12:01:31 - CompleteApp - ERROR - Unexpected error: 'NoneType' object has no attribute 'capitalize'
+Traceback (most recent call last):
+  File "d:\GenAi Internship CDAC\Assignments\Assignment02\Complete_App\app.py", line 428, in run
+    self.weather_section()
+  File "d:\GenAi Internship CDAC\Assignments\Assignment02\Complete_App\app.py", line 163, in weather_section
+    self._display_weather({
+  File "d:\GenAi Internship CDAC\Assignments\Assignment02\Complete_App\app.py", line 194, in _display_weather
+    print(f"📝 Description: {weather.get('description', 'N/A').capitalize()}")
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'capitalize'
+2025-12-12 12:01:51 - CompleteApp - INFO - CompleteApp initialized successfully
+2025-12-12 12:07:37 - CompleteApp - INFO - Posts saved to file
+2025-12-12 12:07:43 - CompleteApp - INFO - Application closed normally
+2025-12-12 12:08:12 - CompleteApp - INFO - CompleteApp initialized successfully
+2025-12-12 12:10:16 - CompleteApp - INFO - Application closed normally
+2025-12-12 12:13:16 - CompleteApp - INFO - CompleteApp initialized successfully
