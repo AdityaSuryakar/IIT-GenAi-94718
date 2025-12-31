@@ -1,0 +1,66 @@
+========== COURSE CATEGORY ==========
+C++
+Course Name : C++
+Batch Schedule : 23-Jan-2026   To   20-Feb-2026
+Schedule : Weekdays - (Mon-Fri)
+Duration : 60 Hrs
+Timings : 5:00 PM  To  8:00 PM
+Fees : Rs. 7000/- 5900 Early Bird Offer
+Target Audience:
+Pre-requisites:
+Syllabus:
+Batch schedule
+CLICK TO REGISTER
+MODULAR COURSES
+Core Java
+Python Development
+Dev Ops
+MERN (FULL-STACK) DEVELOPMENT
+Machine Learning
+Data Structures and Algorithms
+Mastering GenAI
+Aptitude  
+Mastering MCQs  
+Apache Spark Mastery - Data Engineering with PySpark
+MLOps & LLMOps
+Dream LLM
+C++
+Registration
+&
+Online Admission
+REGISTER NOW
+
+========== BATCH DETAILS ==========
+Sr.No: 1
+Batch Code: CPP- O-07
+Start Date: 23-Jan-2026
+End Date: 20-Feb-2026
+Time: 5:00 PM  To  8:00 PM
+------------------------------
+
+========== COURSE CONTENT ==========
+
+===== TARGET AUDIENCE: =====
+Students
+Fresher's
+Working professionals 
+CLICK TO REGISTER
+
+===== PRE-REQUISITES: =====
+C Programming
+CLICK TO REGISTER
+
+===== SYLLABUS: =====
+C++ Introduction
+Namespace
+C++ Language Features
+Exception Handling
+OOPS Concepts
+Dynamic Memory Allocation, Destructor & Copy Constructor
+Friend Function & Operator Overloading
+How To Share Data Between Objects
+Inheritance & Polymorphism
+Virtual Function, Abstract Class & Interface
+STL
+FILE I/O
+CLICK TO REGISTER

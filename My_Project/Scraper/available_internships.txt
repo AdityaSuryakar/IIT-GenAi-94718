@@ -1,0 +1,68 @@
+technology: Technology
+aim: Aim
+prerequisite: Prerequisite
+learning: Learning
+location: Location
+----------------------------------------
+technology: Generative AI
+aim: Create intelligent applications with LLMs.
+prerequisite: Python, Database
+learning: Advanced Python, LLM models, Ollama, LangChain, Streamlit, Prompt engineering, HuggingFaces
+location: Hinjawadi
+----------------------------------------
+technology: Android Mobile App Development
+aim: Develop Android Mobile Application
+prerequisite: Java Programming, Database, JS
+learning: Android Programming (Java), Express JS server
+location: Hinjawadi
+----------------------------------------
+technology: C Programming
+aim: System application development with GUI
+prerequisite: Basic C Programming
+learning: Revision of structs and File IO, System programming, GUI programming in C
+location: Hinjawadi & Marketyard
+----------------------------------------
+technology: Java Programming
+ 
+aim: Desktop application development with GUI
+prerequisite: Basic Java Programming
+learning: Revision of Collections and File IO, GUI programming in Java
+location: Hinjawadi, Marketyard & Karad
+----------------------------------------
+technology: Web Programming
+aim: Web Application Development
+prerequisite: HTML, JS, CSS, SQL basics
+learning: Node JS, REST services using Express, jQuery, Advanced SQL
+location: Hinjawadi & Karad
+----------------------------------------
+technology: Python Web Development
+ 
+aim: Python-based Web Application Development
+prerequisite: Python, HTML, JS, CSS, SQL basics
+learning: Python Flask/Database connectivity, REST services, jQuery, Advanced SQL
+location: Hinjawadi
+----------------------------------------
+technology: Data Science (ML)
+aim: Exploring & Visualizing data and Machine learning using Python.
+prerequisite: Python Programming
+learning: Advanced Python, ML models, Power BI, Flask
+location: Hinjawadi
+----------------------------------------
+technology: .NET
+aim: Web application development using .NET
+prerequisite: C#
+learning: .NET Web MVC, application development
+location: Karad / Hinjawadi
+----------------------------------------
+technology: CYBER SECURITY
+aim: Build and manage secure IT infrastructure.
+prerequisite: Networking & Linux Basics
+learning: Configure essential network services, implement firewall solutions, secure web servers with certificates, deploy intrusion detection systems, and work with virtualized environments
+location: Hinjawadi
+----------------------------------------
+technology: ARM Micro-controller
+aim: Develop ARM Cortex-M firmware with embedded communication protocols and sensor interfacing
+prerequisite: C Programming, Basic electronics
+learning: Cortex-M embedded programming
+location: Hinjawadi
+----------------------------------------
